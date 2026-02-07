@@ -1,10 +1,10 @@
 # [level 0] n의 배수 고르기 - 120905 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120905) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120905?language=java) 
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.04 ms
+메모리: 89.3 MB, 시간: 3.94 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 25일 22:00:50
+2026년 02월 07일 16:42:05
 
 ### 문제 설명
 
